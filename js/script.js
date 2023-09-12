@@ -8,11 +8,7 @@ for(let i=0; i<mail.length; i++){
 
   if( mail[i] === ricercaMail){
     controllo = true;
-    
-   
-  }
-
-   
+  }  
 }
 
 if(controllo){
