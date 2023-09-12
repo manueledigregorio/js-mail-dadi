@@ -21,4 +21,8 @@ stampa un messaggio appropriato sull’esito del controllo.
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
-1. crea un pront con un numero casuale 
+
+1. crea un bottone 
+1. crea due numeri casuali uno per l'utente e  l'altro per il pc
+1. faccio una verifica per vedere chi ha il punteggio più ALTO
+1. stampo il vincitore 
