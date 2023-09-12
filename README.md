@@ -6,6 +6,10 @@ js-mail-dadi
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
 
+### procedura mail 
+
+1. creare un'array con allinterno delle mail 
+1. creo un ciclo for con all'interno una condizione dove la mail inserita se vera stampa sennò fare else con un messaggio di non registrazione 
 
 
 
